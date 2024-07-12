@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Auwal Gurama</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webalb&label=Profile%20views&color=0e75b6&style=flat" alt="webalb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webalb" alt="webalb" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gurama_auwal" target="blank"><img src="https://img.shields.io/twitter/follow/gurama_auwal?logo=twitter&style=for-the-badge" alt="gurama_auwal" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Django**
 
 - 👨‍💻 All of my projects are available at [github.com/webalb](github.com/webalb)
