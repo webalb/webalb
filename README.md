@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Auwal Gurama</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Python, Django**
+- I’m currently learning **Python, Django**
 
-- 👨‍💻 All of my projects are available at [github.com/webalb](github.com/webalb)
+- All of my projects are available at [github.com/webalb](github.com/webalb)
 
-- 💬 Ask me about **Software Development, Software Engineering, PHP, Python, Django, Computer Science.**
+- Ask me about **Software Development, Software Engineering, PHP, Python, Django, Computer Science.**
 
-- 📫 How to reach me **auwalgurama30@gmail.com**
+- How to reach me **auwalgurama30@gmail.com**
 
-- ⚡ Fun fact **I Love Innovative Ideas**
+- Fun fact **I Love Innovative Ideas**
 - Advocate of **Lean Startup**
 
 
